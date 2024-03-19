@@ -37,3 +37,7 @@ THE TOOL IS TO CREATE AN ADB BRIDGE FROM YOUR PHONE FILES TO THE TERMUX APPLICAT
 7. Click Return and you will find the primary IP and PORT address of the phone, enter them the second time
 8. Congratulations pairing ❤
 9. Don't Foget view video
+
+
+# VIDEO
+https://youtu.be/a8LLi-D9rh8?si=UtrM-aJes0tFfwGZ
