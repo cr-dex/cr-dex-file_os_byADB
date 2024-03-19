@@ -24,6 +24,7 @@
 6. قم بالضغط على "قم باقران الجهاز باستخدام الرمز" ==> ادخل عنوان IP و المنفذ المكتوبين فى تطبيق TERMUX ==> ادخل رمز الاقتران
 7. اضغط رجوع ستجد عنوان IP و PORT اساسيين للهاتف قم بإدخالهم فى المرة الثانية
 8. مبروك الاقتران ❤
+9. لا تنسى مشاهدة الفيديو
 
 # Description
 THE TOOL IS TO CREATE AN ADB BRIDGE FROM YOUR PHONE FILES TO THE TERMUX APPLICATION
